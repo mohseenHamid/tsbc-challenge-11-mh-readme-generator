@@ -36,9 +36,6 @@ ${usage}
 ## Mock-up
 Please find a demo video of this app by clicking [here](./assets/sample-README-demo.mp4)
 
-## License
-This product is covered under the ${data.license}
-
 ## Contributing
 ${contribution}
 
@@ -47,7 +44,11 @@ ${test}
 
 ## Questions
 - If you have any queries, reach out to me via email by clicking [here](mailto:${data.emailAddress}) 
-- Feel free to visit my GitHub profile by clicking [here](https://github.com/${data.userName}).`;
+- Feel free to visit my GitHub profile by clicking [here](https://github.com/${data.userName}).
+
+## License
+This product is covered under the ${data.license}
+`;
 
 	return response;
 };

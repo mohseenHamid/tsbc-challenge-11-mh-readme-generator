@@ -7,12 +7,26 @@ This application will generate a README.md for your project based on the answers
 
 ------------------------------------------- Instructions --------------------------------------------
 - For typed inputs, please press the "Enter" key after completion to submit your response and move on
+- For multiple line responses, please adhere to the following:
+    - Begin your response with a "comma" and "space" as displayed here: ", "
+    - Please separate each instruction with a "comma" and "space"
 - For multiple choice selections, please follow the instructions that will be provided to you
 - To skip a question, please press the "Enter" key without inputting anything else
 
 ------------------------------------------ Happy Writing! -------------------------------------------
 When you've read the instructions, please confirm below that you're ready to begin!
 `;
+
+// function to separate multiple line responses
+const splitLines = (response) => {
+	console.log(response);
+
+	let responseArray = [...response.split(",")];
+	console.log(responseArray);
+
+	responseFormatted = responseArray.join(`\n-`);
+	console.log(responseFormatted);
+};
 
 // function to write README file
 const writeToFile = (fileName, fileContent) => {
@@ -26,4 +40,4 @@ Your professional README has been successfully created! I hope you found it to b
 	);
 };
 
-module.exports = { welcomeMsg, writeToFile };
+module.exports = { welcomeMsg, writeToFile, splitLines };

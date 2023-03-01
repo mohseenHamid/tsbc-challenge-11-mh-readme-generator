@@ -1,48 +1,51 @@
-# asdasd
+# SAMPLE PROJECT
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/license/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/MIT)
 
 ## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+- [Mock-up](#mock-up)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [License](#license)
 
 ## Description
 
-asdasd
+A sample application
 
 ## Installation
 
-- ------------------------------------------ Happy Writing! -------------------------------------------
+- INSTRUCTION #1
+- INSTRUCTION #2
 
 ## Usage
 
-- A separator can
-- A separator can
-- A separator can
+- INSTRUCTION #1
+- INSTRUCTION #2
+
+## Mock-up
+
+Please find a demo video of this app by clicking [here](../assets/sample-README-demo.mp4)
 
 ## License
 
-This product is covered under the Apache 2.0 License
+This product is covered under the MIT License
 
 ## Contributing
 
-- A separator can
-- A separator can
-- A separator can
+- GUIDELINE #1
+- GUIDELINE #2
 
 ## Tests
 
-- A separator can
-- A separator can
-- A separator can
+- INSTRUCTION #1
+- INSTRUCTION #2
 
 ## Questions
 
-- If you have any queries, reach out to me via email by clicking [here](mailto:asdsad)
-- Feel free to visit my GitHub profile by clicking [here](https://github.com/asdasd).
+- If you have any queries, reach out to me via email by clicking [here](mailto:test-email@hotmail.com)
+- Feel free to visit my GitHub profile by clicking [here](https://github.com/mohseenHamid).

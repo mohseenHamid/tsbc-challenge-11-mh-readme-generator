@@ -14,7 +14,7 @@ This application will generate a README.md for your project based on the answers
 - To skip a question, please press the "Enter" key without inputting anything else
 
 ------------------------------------------ Happy Writing! -------------------------------------------
-When you've read the instructions, please enter your first response!
+When you've read the instructions, please begin by entering your first response below! Enjoy writing!
 `;
 // ------------------------------------------ Happy Writing! -------------------------------------------
 // When you've read the instructions, please confirm below that you're ready to begin!

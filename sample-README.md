@@ -31,10 +31,6 @@ A sample application
 
 Please find a demo video of this app by clicking [here](./assets/sample-README-demo.mp4)
 
-## License
-
-This product is covered under the MIT License
-
 ## Contributing
 
 - GUIDELINE #1
@@ -49,3 +45,7 @@ This product is covered under the MIT License
 
 - If you have any queries, reach out to me via email by clicking [here](mailto:test-email@hotmail.com)
 - Feel free to visit my GitHub profile by clicking [here](https://github.com/mohseenHamid).
+
+## License
+
+This product is covered under the MIT License

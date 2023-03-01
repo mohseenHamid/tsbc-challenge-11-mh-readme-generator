@@ -34,7 +34,7 @@ ${installation}
 ${usage}
 
 ## Mock-up
-Please find a demo video of this app by clicking [here](../assets/sample-README-demo.mp4)
+Please find a demo video of this app by clicking [here](./assets/sample-README-demo.mp4)
 
 ## License
 This product is covered under the ${data.license}

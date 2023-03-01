@@ -50,11 +50,11 @@ Instructions on how to use the app will be presented via a welcome message when 
 
 ### Demo Video
 
-- Please find a demo video for the app [here](../assets/sample-README-demo.mp4) (located in the assets folder)
+- Please find a demo video for the app [here](./assets/sample-README-demo.mp4) (located in the assets folder)
 
 ### Demo GIF
 
-![Animation going through each step of the app](../assets/sample-README-demo.gif)
+![Animation going through each step of the app](./assets/sample-README-demo.gif)
 
 ## License
 

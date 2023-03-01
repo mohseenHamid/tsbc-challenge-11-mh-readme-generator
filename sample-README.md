@@ -1,8 +1,8 @@
-# hello
+# asdasd
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/license/BSD-3-Clause)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/license/Apache-2.0)
 
-## Table of Content
+## Table of Contents
 
 - [Description](#description)
 - [Installation](#installation)
@@ -13,18 +13,36 @@
 - [Questions](#questions)
 
 ## Description
-asd
+
+asdasd
 
 ## Installation
-afasdfad
+
+- ------------------------------------------ Happy Writing! -------------------------------------------
 
 ## Usage
 
+- A separator can
+- A separator can
+- A separator can
+
 ## License
-This product is covered under the BSD 3-Clause License
+
+This product is covered under the Apache 2.0 License
 
 ## Contributing
 
+- A separator can
+- A separator can
+- A separator can
+
 ## Tests
 
+- A separator can
+- A separator can
+- A separator can
+
 ## Questions
+
+- If you have any queries, reach out to me via email by clicking [here](mailto:asdsad)
+- Feel free to visit my GitHub profile by clicking [here](https://github.com/asdasd).

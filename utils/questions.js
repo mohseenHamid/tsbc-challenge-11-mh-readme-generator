@@ -2,11 +2,11 @@ const { licenseArray } = require("./licenseCode");
 
 // array of questions for user
 const questions = [
-	{
-		type: "confirm",
-		message: "Are you ready to begin?",
-		name: "startConfirmation"
-	},
+	// {
+	// 	type: "confirm",
+	// 	message: "Are you ready to begin?",
+	// 	name: "startConfirmation"
+	// },
 	{
 		type: "input",
 		message: "Please enter your email address:",

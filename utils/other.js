@@ -14,18 +14,18 @@ This application will generate a README.md for your project based on the answers
 - To skip a question, please press the "Enter" key without inputting anything else
 
 ------------------------------------------ Happy Writing! -------------------------------------------
-When you've read the instructions, please confirm below that you're ready to begin!
+When you've read the instructions, please enter your first response!
 `;
+// ------------------------------------------ Happy Writing! -------------------------------------------
+// When you've read the instructions, please confirm below that you're ready to begin!
 
 // function to separate multiple line responses
 const splitLines = (response) => {
-	console.log(response);
-
 	let responseArray = [...response.split(",")];
-	console.log(responseArray);
 
 	responseFormatted = responseArray.join(`\n-`);
-	console.log(responseFormatted);
+
+	return responseFormatted;
 };
 
 // function to write README file

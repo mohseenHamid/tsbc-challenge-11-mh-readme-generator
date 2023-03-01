@@ -29,7 +29,7 @@ A sample application
 
 ## Mock-up
 
-Please find a demo video of this app by clicking [here](../assets/sample-README-demo.mp4)
+Please find a demo video of this app by clicking [here](./assets/sample-README-demo.mp4)
 
 ## License
 
